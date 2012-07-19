@@ -1,0 +1,23 @@
+Test_PMI:
+    resource: "@PMITestBundle/Controller/TestController.php"
+    type:     annotation    
+
+Test_PMI_2:
+    resource: "@PMITestBundle/Controller/OrderController.php"
+    type:     annotation  
+    
+Test_PMI_3:
+    resource: "@PMITestBundle/Controller/ProductController.php"
+    type:     annotation  
+       
+Test_PMI_4:
+    resource: "@PMITestBundle/Controller/ProductOrderController.php"
+    type:     annotation  
+    
+Test_PMI_5:
+    resource: "@PMITestBundle/Controller/UserController.php"
+    type:     annotation  
+
+Test_PMI_6:
+    resource: "@PMITestBundle/Controller/GroupController.php"
+    type:     annotation      

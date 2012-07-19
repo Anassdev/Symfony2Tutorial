@@ -1,0 +1,7 @@
+parameters:
+#    pmi_test.example.class: PMI\TestBundle\Example
+
+services:
+#    pmi_test.example:
+#        class: %pmi_test.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
